@@ -11,7 +11,7 @@ Time conversion...? The very same wishful neural circuit of yours, immediately c
 ## Widget Walkthrough
 You notice, the left-hand side is pre-filled with your local time zone, present date  & time while the right-hand side has ‘america-new_york’ as the target time zone. You change the target time zone to UTC, the date below it to 27th of July, and the time to 15:00. Lo and behold, the time and date of your local time zone automatically adjusts to the right time within 3-4 clicks. 
 
-![alt text](https://github.com/AnqaAkram/planner-widget/blob/main/markupfiles/markup-ss2.PNG?raw=true)
+![alt text](https://github.com/AnqaAkram/planner-widget/blob/main/markupfiles/markup-ss0.PNG?raw=true)
 ## Comparative Analysis
 The whole experience was **utterly easy, simple & quick** with no ~~‘submit/convert’~~ buttons to wait on or ~~complex dial like time conversion visuals~~ with ~~Ads popping in right and left~~...almost like the awesome [Dateful](https://dateful.com/time-zone-converter) site as your personal widget. So, you decide to keep it permanently as your widget in your planner app for catching all your exciting *global opportunities **on time**. 
 
