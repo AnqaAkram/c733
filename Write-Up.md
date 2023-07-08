@@ -19,4 +19,4 @@ The whole experience was **utterly easy, simple & quick** with no ~~‘submit/co
 *while only one use case has been covered in the user story, here are a few more examples:
 1. Catching up with your friends & family living abroad in mutually active hours
 1. Communicating and delegating tasks to your team members across timezones 
-1. Scheduling classes, releasing assignments of your international students 
+1. Scheduling classes, releasing assignments to your international students 
